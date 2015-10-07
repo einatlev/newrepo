@@ -6,7 +6,3 @@ made a change
 ## Here is a subsection title
 More text here
 
-
-
-bla
-
